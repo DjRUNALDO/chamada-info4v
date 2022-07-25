@@ -1,2 +1,2 @@
 # chamada-v
- Projeto criado na disciplina de PPI
+ Projeto criado na disciplina de PPI.
